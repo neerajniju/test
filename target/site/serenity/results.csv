@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Countries search tests","Verify that we can find united states of america using the code BR","SUCCESS","2018-02-04T19:17:58.882+05:30[Asia/Calcutta]","0.0","3.33"
+"Countries search tests","Verify that we can find united states of america using the code IN","SUCCESS","2018-02-04T19:18:02.251+05:30[Asia/Calcutta]","0.0","1.08"
+"Countries search tests","Verify that we can find united states of america using the code US","SUCCESS","2018-02-04T19:18:03.333+05:30[Asia/Calcutta]","0.0","1.16"

@@ -1,0 +1,3 @@
+com\serenity_rest_assured_automation\demo\AppTest.class
+com\serenity_rest_assured_automation\demo\CountriesSearchTests.class
+steps\CountriesSearchSteps.class
